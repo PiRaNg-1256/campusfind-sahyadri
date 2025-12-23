@@ -91,3 +91,14 @@ Here is a quick overview of the important files and folders:
 ---
 
 **Built with ❤️ for Sahyadri.**
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/Home.png)
+
+### Report Item
+![Report Item](screenshots/Report.png)
+
+### Dashboard
+![Dashboard](screenshots/Antigravity.png)
