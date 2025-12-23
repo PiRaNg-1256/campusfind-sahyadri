@@ -100,5 +100,5 @@ Here is a quick overview of the important files and folders:
 ### Report Item
 ![Report Item](screenshots/Report.png)
 
-### Dashboard
-![Dashboard](screenshots/Antigravity.png)
+### Antigravity
+![Antigravity](screenshots/Antigravity.png)
